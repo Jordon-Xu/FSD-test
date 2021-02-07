@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-02-06T15:41:25.665Z</updated>
+  <updated>2021-02-07T01:58:03.304Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无人驾驶小车项目（FSD）（测试）</title>
+    <link href="http://example.com/2021/02/07/%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%B0%8F%E8%BD%A6%E9%A1%B9%E7%9B%AE%EF%BC%88FSD%EF%BC%89%EF%BC%88%E6%B5%8B%E8%AF%95%EF%BC%89/"/>
+    <id>http://example.com/2021/02/07/%E6%97%A0%E4%BA%BA%E9%A9%BE%E9%A9%B6%E5%B0%8F%E8%BD%A6%E9%A1%B9%E7%9B%AE%EF%BC%88FSD%EF%BC%89%EF%BC%88%E6%B5%8B%E8%AF%95%EF%BC%89/</id>
+    <published>2021-02-07T01:41:40.000Z</published>
+    <updated>2021-02-07T01:58:03.304Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="introduction"><a href="#introduction" class="headerlink" title="introduction"></a>introduction</h2><p>to simulate FSD of Tesla at home</p><h2 id="build-the-car"><a href="#build-the-car" class="headerlink" title="build the car"></a>build the car</h2><h4 id="3D-modeling-and-3D-printing"><a href="#3D-modeling-and-3D-printing" class="headerlink" title="3D modeling and 3D printing"></a>3D modeling and 3D printing</h4><h4 id="core-of-NVIDIA™-JETSON-NANO™-development-kit"><a href="#core-of-NVIDIA™-JETSON-NANO™-development-kit" class="headerlink" title="core of NVIDIA™ JETSON NANO™ development kit"></a>core of NVIDIA™ JETSON NANO™ development kit</h4><h4 id=""><a href="#" class="headerlink" title=""></a></h4>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;introduction&quot;&gt;&lt;a href=&quot;#introduction&quot; class=&quot;headerlink&quot; title=&quot;introduction&quot;&gt;&lt;/a&gt;introduction&lt;/h2&gt;&lt;p&gt;to simulate FSD of Tesla at ho</summary>
+      
+    
+    
+    
+    <category term="FSD" scheme="http://example.com/categories/FSD/"/>
+    
+    
+    <category term="python" scheme="http://example.com/tags/python/"/>
+    
+    <category term="FSD" scheme="http://example.com/tags/FSD/"/>
+    
+  </entry>
   
   <entry>
     <title>发布第一篇个人博客</title>
